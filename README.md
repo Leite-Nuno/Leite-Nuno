@@ -1,6 +1,6 @@
 - Hi there! 👋 I'm @Leite-Nuno
 - 👀 About Me - I'm passionate about Data Science and always eager to learn more about data analysis, machine learning, and artificial intelligence. I enjoy exploring datasets, finding patter ns, and creating models that provide meaningful insights.
-- 🌱  Currently Learning:
+- 🌱  Skills:
       - Python for Data Science
       - Machine Learning & AI
       - Data Visualization (Matplotlib, Seaborn, Plotly)
@@ -8,7 +8,7 @@
       - Big Data & Cloud Technologies
 - 💞️ Collaboration - I'm open to collaborating on Data Science projects, especially those involving machine learning, predictive analytics, and data visualization. If you have an interesting project, feel free to reach out!
 - 📫 How to reach me : nunorsleite@gmail.com
-- ⚡ Fun fact: The Mona Lisa has no eyebrows.
+
 
 
 <!---
