@@ -7,7 +7,7 @@
       - SQL & Databases
       - Big Data & Cloud Technologies
 - 💞️ Collaboration - I'm open to collaborating on Data Science projects, especially those involving machine learning, predictive analytics, and data visualization. If you have an interesting project, feel free to reach out!
-- 📫 How to reach me : nunorsleite@gmail.com
+- 📫 How to reach me : nuno_a_leite@hotmail.com (Main email) or nunorsleite@gmail.com
 
 
 
